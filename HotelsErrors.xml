@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Name>Duplicate Westin Name</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Tempe Mission Palms</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>60</Number>
+      <Street>E 5th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+  </Hotel>
+  <Hotel>
+    <Name>Hyatt Place Tempe</Name>
+    <Phone>480-123-4567</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1200</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
